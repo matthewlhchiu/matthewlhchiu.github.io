@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+<head>
+  {% include head.html %}
+</head>
+
+<body>
+  <div class="wrap">
+    <!-- Header -->
+    <header class="masthead">
+      <div class="container">
+        <a id='name' href="{% link index.md %}">Matthew Chiu</a>
+        <div class="span">
+          <a href="{% link blogroll.md %}">Blogroll</a> 
+          <a href="https://matthewlhchiu.notion.site/e16f9eea60a5443aa51f9dd3c3f3d66f?v=369640820d83470a9519e42698ae52a1">Religious sites</a>
+          <a href="https://matthewlhchiu.substack.com/">Substack</a>
+          <a href="https://matthewlhchiu.notion.site/e16f9eea60a5443aa51f9dd3c3f3d66f?v=369640820d83470a9519e42698ae52a1">Interesting</a>
+        </div>
+      </div>
+    </header>
+
+    <!-- Main Content -->
+    <main class="container">
+      {{ content }}
+    </main>
+
+    <!-- Footer -->
+    <footer class="footer">
+      <div class="container">
+        <p>Last updated: December 22, 2023.</p>
+      </div>
+    </footer>
+  </div>
+
+</body>
+</html>
