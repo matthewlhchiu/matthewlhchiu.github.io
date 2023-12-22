@@ -218,8 +218,7 @@ tbody tr:nth-child(odd) th {
 .masthead {
   padding-top: 26px;
   text-align: left;
-  position: relative; /* Keeps .masthead as the relative container */
-  padding-right: 20px; /* Add right padding to prevent .span touching the edge */
+  position: relative; /* Keep .masthead as the relative container */
 }
 
 #name {
@@ -235,13 +234,14 @@ a {
 .span {
   position: absolute; /* Keep .span positioned absolutely within .masthead */
   bottom: 0; /* Align to the bottom */
-  right: 20px; /* Adjust this value to control how far from the right edge .span should be */
+  right: 1rem; /* Match this value to your page's overall right padding */
   text-align: right;
 
   a {
     padding-left: 10px;
   }
 }
+
 
 
 
