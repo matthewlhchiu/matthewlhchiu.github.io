@@ -235,6 +235,10 @@ a {
 .span {
   /* Reset any specific styles to default or remove if not needed */
   text-align: right;
+
+  a {
+    padding-left: 10px;
+  }
 }
 
 /* Mobile styles */
