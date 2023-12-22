@@ -237,9 +237,24 @@ a {
   text-align: right;
 }
 
+/* Mobile styles */
+@media (max-width: 768px) {
+  .masthead {
+    padding-top: 15px; /* Reduced padding for smaller screens */
+    text-align: center; /* Center text on smaller screens */
+  }
 
+  #name {
+    font-size: 1.2rem; /* Smaller font size for mobile */
+  }
 
+  .span {
+    text-align: center; /* Adjust text alignment as needed */
+    /* Other mobile-specific styles */
+  }
 
+  /* Any other adjustments for mobile view */
+}
 
 @media (min-width: 320px) {
   .masthead-title {
