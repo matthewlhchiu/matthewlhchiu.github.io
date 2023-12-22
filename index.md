@@ -3,7 +3,7 @@ layout: default
 title: Matthew Chiu
 ---
 
-I am a student of philosophy, politics and economics at the LSE. I research topics in AI governance, development economics, and political economy.
+I am a student of philosophy, politics and economics at the LSE.
 
 I write on [Substack](https://matthewlhchiu.substack.com/).
 
