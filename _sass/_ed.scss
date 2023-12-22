@@ -218,29 +218,25 @@ tbody tr:nth-child(odd) th {
 .masthead {
   padding-top: 26px;
   text-align: left;
-  position: relative; /* Keep .masthead as the relative container */
+  /* Remove any positioning styles that were added */
 }
 
 #name {
   color: black;
   font-weight: bold;
-  font-size: 1.6rem;
+  font-size: 1.6rem; /* Adjust if this was not the original size */
 }
 
 a {
   color: black;
+  /* Remove any specific styling that was added */
 }
 
 .span {
-  position: absolute; /* Keep .span positioned absolutely within .masthead */
-  bottom: 0; /* Align to the bottom */
-  right: 1rem; /* Match this value to your page's overall right padding */
+  /* Reset any specific styles to default or remove if not needed */
   text-align: right;
-
-  a {
-    padding-left: 10px;
-  }
 }
+
 
 
 
