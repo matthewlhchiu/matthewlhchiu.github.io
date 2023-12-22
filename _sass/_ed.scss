@@ -224,28 +224,30 @@ tbody tr:nth-child(odd) th {
 .masthead {
   padding-top: 26px;
   text-align: left;
-  display: flex; /* Use flexbox for alignment */
-  justify-content: space-between; /* Space out name and links */
-  align-items: flex-end; /* Align items vertically at the bottom */
+  position: relative; /* Set .masthead as the relative container */
+}
 
-  #name {
-    color: black;
-    font-weight: bold;
-    font-size: 1.6rem;
-  }
+#name {
+  color: black;
+  font-weight: bold;
+  font-size: 1.6rem;
+}
+
+a {
+  color: black;
+}
+
+.span {
+  position: absolute; /* Position .span absolutely within .masthead */
+  bottom: 0;          /* Align to the bottom */
+  right: 0;           /* Align to the right */
+  text-align: right;
 
   a {
-    color: black;
-  }
-
-  .span {
-    text-align: right;
-
-    a {
-      padding-left: 10px;
-    }
+    padding-left: 10px;
   }
 }
+
 
 
 @media (min-width: 320px) {
