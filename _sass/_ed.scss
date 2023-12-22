@@ -215,16 +215,11 @@ tbody tr:nth-child(odd) th {
 }
 
 
-/*
-  Masthead
-
-  Super small header above the content for site name and short description.
-*/
-
 .masthead {
   padding-top: 26px;
   text-align: left;
-  position: relative; /* Set .masthead as the relative container */
+  position: relative; /* Keeps .masthead as the relative container */
+  padding-right: 20px; /* Add right padding to prevent .span touching the edge */
 }
 
 #name {
@@ -238,9 +233,9 @@ a {
 }
 
 .span {
-  position: absolute; /* Position .span absolutely within .masthead */
-  bottom: 0;          /* Align to the bottom */
-  right: 0;           /* Align to the right */
+  position: absolute; /* Keep .span positioned absolutely within .masthead */
+  bottom: 0; /* Align to the bottom */
+  right: 20px; /* Adjust this value to control how far from the right edge .span should be */
   text-align: right;
 
   a {
