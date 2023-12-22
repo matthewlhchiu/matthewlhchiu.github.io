@@ -2,8 +2,8 @@
 layout: default
 title: Matthew Chiu
 ---
-
-I am a student of philosophy, politics and economics at the LSE.
+# Welcome
+I am a student of philosophy, politics and economics at the London School of Economics.
 
 I write on [Substack](https://matthewlhchiu.substack.com/).
 
