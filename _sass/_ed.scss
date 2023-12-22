@@ -224,17 +224,24 @@ tbody tr:nth-child(odd) th {
 .masthead {
   padding-top: 26px;
   text-align: left;
+  
   #name {
     color: black;
     font-weight: bold;
     font-size: 1.6rem;
+    line-height: 1.8rem; /* Adjust this as needed for proper alignment */
   }
+
   a {
     color: black;
   }
+
   .span {
+    display: flex;        /* Use flexbox for alignment */
+    align-items: flex-end; /* Align items to the end (bottom) of the container */
     float: right;
     text-align: right;
+    
     a {
       padding-left: 10px;
     }
