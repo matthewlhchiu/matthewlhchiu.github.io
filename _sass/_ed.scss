@@ -223,7 +223,6 @@ tbody tr:nth-child(odd) th {
 .masthead {
   padding-top: 26px;
   padding-bottom: 26px;
-  display: flex;
   vertical-align: baseline;
   margin-left: 0;
   margin-right: 0;
@@ -245,6 +244,7 @@ a {
   /* Reset any specific styles to default or remove if not needed */
   float: right;
   text-align: right;
+  vertical-align: baseline;
 
   a {
     padding-left: 10px;
