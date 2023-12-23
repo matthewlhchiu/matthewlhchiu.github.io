@@ -224,8 +224,7 @@ tbody tr:nth-child(odd) th {
   padding-top: 26px;
   padding-bottom: 26px;
   display: flex;
-  justify-content: space-between;
-  align-items: flex-end;
+  vertical-align: baseline;
   margin-left: 0;
   margin-right: 0;
   /* Remove any positioning styles that were added */
