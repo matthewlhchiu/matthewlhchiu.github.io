@@ -245,7 +245,7 @@ a {
 }
 
 /* Remove left margin for the first link */
-a:first-of-type {
+a:nth-child(2) {
   margin-left: 0;
 }
 
