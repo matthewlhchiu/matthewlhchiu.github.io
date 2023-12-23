@@ -214,10 +214,18 @@ tbody tr:nth-child(odd) th {
   background-color: #f9f9f9;
 }
 
+/*
+  Masthead
+
+  Super small header above the content for site name and short description.
+*/
 
 .masthead {
   padding-top: 26px;
+  padding-bottom: 26px;
   text-align: left;
+  margin-left: 0;
+  margin-right: 0;
   /* Remove any positioning styles that were added */
 }
 
@@ -228,12 +236,13 @@ tbody tr:nth-child(odd) th {
 }
 
 a {
-  color: red;
+  color: green;
   /* Remove any specific styling that was added */
 }
 
 .span {
   /* Reset any specific styles to default or remove if not needed */
+  float: right;
   text-align: right;
 
   a {
