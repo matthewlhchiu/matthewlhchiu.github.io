@@ -226,8 +226,8 @@ tbody tr:nth-child(odd) th {
   display: flex;
   align-items: flex-end;
   justify-content: space-between;
-  margin-left: 10px;
-  margin-right: 10px;
+  margin-left: 0;
+  margin-right: 0;
   /* Remove any positioning styles that were added */
 }
 
@@ -245,12 +245,12 @@ a {
 }
 
 /* Remove left margin for the first link */
-a:first-child {
+a:first-of-type {
   margin-left: 0;
 }
 
 /* Remove right margin for the last link */
-a:last-child {
+a:last-of-type {
   margin-right: 0;
 }
 
