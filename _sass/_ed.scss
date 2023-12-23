@@ -237,26 +237,25 @@ tbody tr:nth-child(odd) th {
   font-size: 1.6rem; /* Adjust if this was not the original size */
 }
 
-a {
-  color: green;
-  margin-left: 10px;
-  margin-right: 10px;
-  /* Remove any specific styling that was added */
-}
-
-/* Remove left margin for the first link */
-a:nth-child(2) {
-  margin-left: 0;
-}
-
-/* Remove right margin for the last link */
-a:last-of-type {
-  margin-right: 0;
-}
-
 .span {
   /* Reset any specific styles to default or remove if not needed */
   display: flex;
+  a {
+    color: green;
+    margin-left: 10px;
+    margin-right: 10px;
+    /* Remove any specific styling that was added */
+  }
+  
+  /* Remove left margin for the first link */
+  a:nth-child(1) {
+    margin-left: 0;
+  }
+  
+  /* Remove right margin for the last link */
+  a:last-of-type {
+    margin-right: 0;
+  }
 }
 
 .footer {
