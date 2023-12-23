@@ -11,10 +11,10 @@ I am lucky that most pieces I come across are often original, illuminating, and 
 
 I share some of my favourite writers, bloggers, commentators below. Most are original; some are exceptional and have changed me as a person, or some aspect of my worldview.
 
-Beware: a long list beholds.
-
-## General
+## The list...
 - [Strange Loop Canon](https://www.strangeloopcanon.com/)
 - [Dynomight](https://dynomight.net/)
 - [Astral Codex Ten (prev. Slate Star Codex)](https://www.astralcodexten.com/)
 - [The Intrinsic Perspective — Erik Hoel](https://www.theintrinsicperspective.com/)
+- [Secretorum](https://www.secretorum.life/)
+- [Econometric Sense](https://econometricsense.blogspot.com/)
