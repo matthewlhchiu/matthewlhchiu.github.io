@@ -223,9 +223,6 @@ tbody tr:nth-child(odd) th {
 .masthead {
   padding-top: 26px;
   padding-bottom: 26px;
-  display: flex;
-  align-items: flex-end;
-  justify-content: space-between;
   margin-left: 0;
   margin-right: 0;
   /* Remove any positioning styles that were added */
@@ -244,7 +241,6 @@ a {
 
 .span {
   /* Reset any specific styles to default or remove if not needed */
-  display: flex;
 
   a {
     padding-left: 10px;
