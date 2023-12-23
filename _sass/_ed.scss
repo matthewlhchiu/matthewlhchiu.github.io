@@ -245,7 +245,6 @@ a {
 .span {
   /* Reset any specific styles to default or remove if not needed */
   display: flex;
-  text-align: right;
 
   a {
     padding-left: 10px;
@@ -254,15 +253,15 @@ a {
 
 .footer {
   /* Add styles for your footer */
-  padding: 20px;
+  padding: 26px;
   text-align: center;
 }
 
 .footer-line {
-  height: 2px; /* Thickness of the line */
+  height: 0.5px; /* Thickness of the line */
   background-color: #333; /* Color of the line */
   width: 100%; /* Line width */
-  margin-bottom: 20px; /* Space below the line */
+  margin-bottom: 40px; /* Space below the line */
 }
 
 /* Mobile styles */
