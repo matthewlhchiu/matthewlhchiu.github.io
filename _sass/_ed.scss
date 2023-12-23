@@ -239,7 +239,19 @@ tbody tr:nth-child(odd) th {
 
 a {
   color: green;
+  margin-left: 10px;
+  margin-right: 10px;
   /* Remove any specific styling that was added */
+}
+
+/* Remove left margin for the first link */
+a:first-child {
+  margin-left: 0;
+}
+
+/* Remove right margin for the last link */
+a:last-child {
+  margin-right: 0;
 }
 
 .span {
