@@ -244,6 +244,7 @@ a {
 
 .span {
   /* Reset any specific styles to default or remove if not needed */
+  display: flex;
   text-align: right;
 
   a {
