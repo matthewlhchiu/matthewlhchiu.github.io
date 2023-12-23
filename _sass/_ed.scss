@@ -223,7 +223,9 @@ tbody tr:nth-child(odd) th {
 .masthead {
   padding-top: 26px;
   padding-bottom: 26px;
-  vertical-align: baseline;
+  display: flex;
+  align-items: flex-end;
+  justify-content: space-between;
   margin-left: 0;
   margin-right: 0;
   /* Remove any positioning styles that were added */
@@ -242,13 +244,24 @@ a {
 
 .span {
   /* Reset any specific styles to default or remove if not needed */
-  float: right;
   text-align: right;
-  vertical-align: baseline;
 
   a {
     padding-left: 10px;
   }
+}
+
+footer {
+  /* Add styles for your footer */
+  padding: 20px;
+  text-align: center;
+}
+
+.footer-line {
+  height: 2px; /* Thickness of the line */
+  background-color: #333; /* Color of the line */
+  width: 100%; /* Line width */
+  margin-bottom: 20px; /* Space below the line */
 }
 
 /* Mobile styles */
