@@ -1,1 +1,1 @@
-Here's a [presentation](<files/Data Science Revolutions presentation.pdf>) that I worked on.
+Here's a [presentation]({{ site.baseurl }}/files/Data Science Revolutions presentation.pdf) that I worked on.
