@@ -271,7 +271,7 @@ tbody tr:nth-child(odd) th {
 @media (max-width: 768px) {
   .masthead {
     padding-top: 15px; /* Reduced padding for smaller screens */
-    text-align: center; /* Center text on smaller screens */
+    text-align: left; /* Center text on smaller screens */
   }
 
   #name {
@@ -279,7 +279,7 @@ tbody tr:nth-child(odd) th {
   }
 
   .span {
-    text-align: center; /* Adjust text alignment as needed */
+    text-align: left; /* Adjust text alignment as needed */
     /* Other mobile-specific styles */
   }
 
