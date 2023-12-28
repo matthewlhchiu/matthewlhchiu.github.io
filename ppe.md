@@ -1,6 +1,6 @@
 ---
 layout: default
-title: PPE
+title: "PPE"
 permalink: /ppe/
 ---
 # Philosophy, Politics and Economics
