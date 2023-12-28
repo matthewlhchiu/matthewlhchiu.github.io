@@ -25,4 +25,4 @@ Contact: [Twitter](https://twitter.com/matthewlhchiu), [Linkedin](https://linked
 
 I love speaking to and meeting people from all walks of life. Please, if you think I could be helpful, want to learn more about my work, or just chat casually about life and more — [meet with me](https://calendly.com/matthewlhchiu/meetup)!
 
-*Of course, the journey *is* the destination!
+*Of course, the journey <i>is</i> the destination!
