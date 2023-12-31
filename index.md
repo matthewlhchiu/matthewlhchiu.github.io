@@ -5,8 +5,6 @@ title: Matthew Chiu
 # Welcome, fellow traveller
 Thank you for visiting my small corner of the Internet world, where I document my journey so far and share what's to come.*
 
-**Notes for a Humbler World**: I occasionally pontificate about the world on my [Substack](https://matthewlhchiu.substack.com/).
-
 This website is a disparate collection of my thoughts, notes, and weakly-held opinions. I hope you find them interesting.
 
 ## My work
@@ -14,7 +12,7 @@ I currently work on research in **artificial intelligence policy and governance*
 
 I study philosophy, politics and economics at [LSE](https://www.lse.ac.uk), where I am blessed with the opportunity to think deeply about many problems. I discuss some of these topics [here]({% link ppe.md %}).
 
-I previously worked in management consulting, venture capital and talent investing, and early-stage startups in the crypto and social impact space.
+My previous experiences include an internship in management consulting, brief stints in venture capital and talent investing, and strategy/business roles at early-stage startups in the crypto and social impact space.
 
 ## Recently...
 I've been reading [*The Meritocracy Trap*](https://www.amazon.co.uk/Meritocracy-Trap-Foundational-Inequality-Dismantles/dp/0735221995) by Daniel Markovits. Reading this book has prompted deep reflection on how the systems that we abide by — the meritocratic ideal, the democratic spirit, the educational system, and the idol of prestige — come full-circle to shape us.

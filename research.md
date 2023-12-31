@@ -1,10 +1,10 @@
 ---
 layout: default
-title: "Research"
-permalink: /research/
+title: "Projects"
+permalink: /projects/
 ---
-# Research
-This space is a collection of the projects and essays that I've worked on (both at the LSE and otherwise)!
+# Project
+This space is a collection of the research and academic projects that I've worked on (both at the LSE and elsewhere)!
 
 ## Current projects
 - **Climate change awareness and attitudes in Sub-Saharan Africa** (2023): As part of my BSc degree, my team and I conducted a research project to understand and identify the correlates of climate change awareness and attitudes in Sub-Saharan Africa. We presented our results and findings to the World Bank. (*ongoing.*)
