@@ -5,6 +5,8 @@ title: Matthew Chiu
 # Welcome, fellow traveller
 Thank you for visiting my small corner of the Internet world, where I document my journey so far and share what's to come.*
 
+**What's new:** I'm starting a blog, [*All That Glitters*](https://matthewlhchiu.substack.com/), to examine how we can get more of the things that matter in life. Please subscribe if you're interested!
+
 This website is a disparate collection of my thoughts, notes, and weakly-held opinions. I hope you find them interesting.
 
 ## My work
