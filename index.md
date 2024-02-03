@@ -12,7 +12,7 @@ This website is a disparate collection of my thoughts, notes, and weakly-held op
 ## My work
 I currently work on research in **artificial intelligence policy and governance**, **global priorities**, and **development economics**. More generally, my interests are wide-ranging and include the economics of innovation, education policy, economic growth, labour allocation, industrial organisation, and urban planning.
 
-I study philosophy, politics and economics at [LSE](https://www.lse.ac.uk), where I am blessed with the opportunity to think deeply about many problems. I discuss some of these topics [here]({% link ppe.md %}).
+I study philosophy, politics and economics at LSE, where I am blessed with the opportunity to think deeply about many problems. I discuss some of these topics [here]({% link ppe.md %}).
 
 My previous experiences include an internship in management consulting, brief stints in venture capital and talent investing, and strategy/business roles at early-stage startups in the crypto and social impact space.
 
