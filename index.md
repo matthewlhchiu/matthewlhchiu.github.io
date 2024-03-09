@@ -3,16 +3,14 @@ layout: default
 title: Matthew Chiu
 ---
 # Welcome, fellow traveller
-Thank you for visiting my small corner of the Internet world, where I document my journey so far and share what's to come.*
-
-**What's new:** I'm starting a blog, [*All That Glitters*](https://matthewlhchiu.substack.com/), to examine how we can get more of the things that matter in life. Please subscribe if you're interested!
-
-This website is a disparate collection of my thoughts, notes, and weakly-held opinions. I hope you find them interesting.
+Thank you for visiting my small corner of the Internet world, where I document my journey so far and share what's to come.* This website is a disparate collection of my thoughts, notes, and weakly-held opinions. I hope you find them interesting.
 
 ## My work
-I currently work on research in **artificial intelligence policy and governance**, **global priorities**, and **development economics**. More generally, my interests are wide-ranging and include the economics of innovation, education policy, economic growth, labour allocation, industrial organisation, and urban planning.
+**What's new:** I am founding [Protopia Group](https://protopiagroup.org/), a think tank for young professionals and early-career researchers to brainstorm and research ideas for better innovation. If you're interested in working on the pressing issue of unlocking and catalysing global economic growth, please reach out.
 
-I study philosophy, politics and economics at LSE, where I am blessed with the opportunity to think deeply about many problems. I discuss some of these topics [here]({% link ppe.md %}).
+I write a blog, [*All That Glitters*](https://matthewlhchiu.substack.com/), to examine how we can get more of the things that matter in life.
+
+I study philosophy, politics and economics at LSE, where I am blessed with the opportunity to think deeply about many problems. I discuss some of these problems [here]({% link ppe.md %}).
 
 My previous experiences include an internship in management consulting, brief stints in venture capital and talent investing, and strategy/business roles at early-stage startups in the crypto and social impact space.
 

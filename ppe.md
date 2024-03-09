@@ -12,4 +12,4 @@ Amongst other topics, I have written (read: speculated) about:
 - how sovereign wealth funds might mitigate the tragic "resource curse" affecting resource-rich countries
 - how a decline in [creative destruction](https://en.wikipedia.org/wiki/Creative_destruction) can explain low GDP growth in the U.S.
 
-I'd love to discuss these ideas (and more) over a coffee with you!
+Always happy to discuss these ideas.
