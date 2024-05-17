@@ -17,5 +17,5 @@ Thank you for visiting my small corner of the Internet.
 
 **Let's chat:** I enjoy speaking to and meeting people from all walks of life. If you think I could be helpful, want to learn more about my work, or just want to chat — please [meet with me](https://calendly.com/matthewlhchiu/meetup)!
 
-## Travels
-I'm curating a list of [sites that bear national, religious, or emotional significance](https://matthewlhchiu.notion.site/e16f9eea60a5443aa51f9dd3c3f3d66f?v=369640820d83470a9519e42698ae52a1) that I've visited. I'd love to hear your suggestions for any must-see places.
+## Other
+**Travels:** I'm curating a list of religious sites known for their unique architectural features, which I've had the fortune of visiting. You can view the current list [here](https://matthewlhchiu.notion.site/e16f9eea60a5443aa51f9dd3c3f3d66f?v=369640820d83470a9519e42698ae52a1). I'd love to hear your suggestions for any must-see places!
