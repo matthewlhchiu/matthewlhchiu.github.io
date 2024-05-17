@@ -10,7 +10,7 @@ Thank you for visiting my small corner of the Internet world.
 
 **Writing:** My blog, [*All That Glitters*](https://matthewlhchiu.substack.com/), examines how we can get more of the things that matter in life.
 
-**Pursuits:** Currently a final year philosophy, politics and economics at LSE, where I am blessed with the opportunity to think deeply about many problems.
+**Pursuits:** Currently a final year philosophy, politics and economics at the LSE, where I am blessed with the opportunity to think deeply about many problems.
 
 **Travels:** I am curating a list of [sites that bear national or religious significance](https://matthewlhchiu.notion.site/e16f9eea60a5443aa51f9dd3c3f3d66f?v=369640820d83470a9519e42698ae52a1) that I've visited. I'd love to hear your suggestions for any must-visit sites.
 
