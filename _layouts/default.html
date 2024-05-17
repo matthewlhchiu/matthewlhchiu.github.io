@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+<head>
+  {% include head.html %}
+</head>
+
+<body>
+  <div class="wrap">
+    <!-- Header -->
+    <header class="masthead">
+      <div class="container">
+        <a id='name' href="{% link index.md %}">Matthew Chiu</a>
+        <div class="span">
+          <a href="https://matthewlhchiu.substack.com/">Substack</a>
+          <a href="{% link blogroll.md %}">Blogroll</a>
+        </div>
+      </div>
+    </header>
+
+    <!-- Main Content -->
+    <main class="container">
+      {{ content }}
+    </main>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="footer-line">
+        <p><i>Matthew Chiu. Last updated: December 28, 2023.</i></p>
+      </div>
+    </footer>
+  </div>
+
+</body>
+</html>
