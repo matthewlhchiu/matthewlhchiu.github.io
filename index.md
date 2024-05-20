@@ -5,7 +5,7 @@ title: Matthew Chiu
 
 I'm a final-year student in Philosophy, Politics, and Economics at the LSE and founder of [Protopia Group](https://protopiagroup.org/), a think tank for young professionals and students to research ideas for better innovation.
 
-If you're interested in working on the pressing issue of catalyzing global innovation, please reach out.
+If you're interested in working on the pressing issue of catalysing global innovation, please reach out.
 
 **Writing:** My blog, [*All That Glitters*](https://matthewlhchiu.substack.com/), examines how we can get more of the things that matter in life.
 
