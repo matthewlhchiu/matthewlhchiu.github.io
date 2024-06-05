@@ -3,9 +3,11 @@ layout: default
 title: Matthew Chiu
 ---
 
-I'm a final-year student in Philosophy, Politics, and Economics at the LSE and founder of [Protopia Group](https://protopiagroup.org/), a think tank for young professionals and students to research ideas for better innovation.
+I'm co-founder of [Protopia Group](https://protopiagroup.org/), a non-profit focussed on developing innovation systems worldwide.
 
 If you're interested in working on the pressing issue of catalysing global innovation, please reach out.
+
+I studied Philosophy, Politics, and Economics at the LSE.
 
 **Writing:** My blog, [*All That Glitters*](https://matthewlhchiu.substack.com/), examines how we can get more of the things that matter in life.
 
