@@ -3,7 +3,9 @@ layout: default
 title: Matthew Chiu
 ---
 
-I'm co-founder of [Protopia Group](https://protopiagroup.org/), a non-profit think tank focussed on developing innovation systems worldwide. If you're interested in working on the pressing issue of catalysing global innovation, please reach out.
+I'm co-founder of [Protopia Group](https://protopiagroup.org/), a non-profit think tank focussed on developing innovation systems worldwide.
+
+If you're interested in working on the pressing issue of catalysing global innovation, please reach out.
 
 I studied Philosophy, Politics, and Economics at the LSE.
 
